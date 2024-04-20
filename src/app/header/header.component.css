@@ -1,8 +1,8 @@
 header{
    
     background-color: rgb(227, 247, 189);
-    padding-left: 4px;
-    padding-right: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 .container{
@@ -19,4 +19,14 @@ header{
 }
 .logo:hover{
     border-radius: 6px;
+}
+
+nav{
+    display: flex;
+    
+   
+
+}
+ul{
+    list-style-type: none;
 }
