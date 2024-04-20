@@ -1,0 +1,22 @@
+header{
+   
+    background-color: rgb(227, 247, 189);
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    background-color: rgb(70, 243, 142);
+    border-radius: 2px;
+    padding: 1rem;
+    font-weight: bold;
+}
+.logo:hover{
+    border-radius: 6px;
+}
